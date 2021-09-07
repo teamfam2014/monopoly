@@ -1,0 +1,4 @@
+monopoly/target/*
+monopoly/.settings/*
+.classpath
+.project
