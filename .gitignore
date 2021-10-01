@@ -2,3 +2,4 @@ monopoly/target/*
 monopoly/.settings/*
 .classpath
 .project
+.vscode/*
