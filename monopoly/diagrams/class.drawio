@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="RVknanJ1kirtkl3xFBCI" name="Non-Stateful Class Diagram">
-        <mxGraphModel dx="2220" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1964" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -154,6 +154,12 @@
                     <mxGeometry width="160" relative="1" as="geometry">
                         <mxPoint x="150" y="480" as="sourcePoint"/>
                         <mxPoint x="310" y="480" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="125" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=elbowEdgeStyle;" edge="1" parent="1" source="61" target="50">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="80" y="129" as="sourcePoint"/>
+                        <mxPoint x="-30" y="129" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
             </root>
